@@ -1,0 +1,120 @@
+.nav {
+    background-color:#F8F6F4;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+    
+}
+
+.nav-link {
+    color: #116A7B
+}
+
+.nav-item {
+    font-family: "Merriweather", sans-serif;
+    color: #116A7B;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+}
+
+.top-container {
+    background-color: #F8F6F4;
+    position: relative;
+    padding-top: 2px;
+}
+h1 {
+    color: #116A7B;
+    font-size: 5.625rem;
+    font-family: "Sacramento", cursive;
+}
+
+p {
+    line-height: 2;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+
+.lavinia-profile-picture {
+   
+    border-radius: 50%;
+    width: 250px;
+    margin: 100px 0;
+}
+
+.card-text {
+    font-family: Merriweather; 
+    font-size: x-large;
+    color: #116A7B;
+}
+
+
+
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h2 {
+    color: #116A7B;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px; 
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+    font-size: xx-large;
+}
+
+hr {
+    border: dotted #ECE5C7 16px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+h3 {
+    color: #116A7B;
+    font-family: "Merriweather", serif;
+    font-size: 2rem;
+    font-weight: normal;
+    padding-bottom: 10px; 
+}
+
+.checkmark-skills {
+    line-height: 2.5;
+    font-size: 1.2rem;
+    
+
+    
+}
+
+
+.btn {
+    background: #C2DEDC;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #116A7B;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 100px;
+}
+
+
+
+.bottom-container {
+    background-color: #F8F6F4;
+    position: relative;
+    padding-top: 50px;
+}
